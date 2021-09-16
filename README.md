@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live demo of the clone is..
+https://clone-de6fd.web.app/
 
 ## Available Scripts
 
